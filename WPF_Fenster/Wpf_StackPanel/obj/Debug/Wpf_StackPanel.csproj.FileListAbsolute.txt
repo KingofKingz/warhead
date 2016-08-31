@@ -1,0 +1,13 @@
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\bin\Debug\Wpf_StackPanel.exe.config
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\bin\Debug\Wpf_StackPanel.exe
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\bin\Debug\Wpf_StackPanel.pdb
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\obj\Debug\MainWindow.g.cs
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\obj\Debug\App.g.cs
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\obj\Debug\Wpf_StackPanel_MarkupCompile.cache
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\obj\Debug\Wpf_StackPanel_MarkupCompile.lref
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\obj\Debug\MainWindow.baml
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\obj\Debug\Wpf_StackPanel.g.resources
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\obj\Debug\Wpf_StackPanel.Properties.Resources.resources
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\obj\Debug\Wpf_StackPanel.csproj.GenerateResource.Cache
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\obj\Debug\Wpf_StackPanel.exe
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_StackPanel\obj\Debug\Wpf_StackPanel.pdb

@@ -1,0 +1,12 @@
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\WPF_Fenster\bin\Debug\WPF_Fenster.exe.config
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\WPF_Fenster\bin\Debug\WPF_Fenster.exe
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\WPF_Fenster\bin\Debug\WPF_Fenster.pdb
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\WPF_Fenster\obj\Debug\WPF_Fenster.csprojResolveAssemblyReference.cache
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\WPF_Fenster\obj\Debug\WPF_Fenster.exe
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\WPF_Fenster\obj\Debug\WPF_Fenster.pdb
+E:\LutzGrub\WPF_Fenster\WPF_Fenster\bin\Debug\WPF_Fenster.exe.config
+E:\LutzGrub\WPF_Fenster\WPF_Fenster\obj\Debug\WPF_Fenster.exe
+E:\LutzGrub\WPF_Fenster\WPF_Fenster\obj\Debug\WPF_Fenster.pdb
+E:\LutzGrub\WPF_Fenster\WPF_Fenster\bin\Debug\WPF_Fenster.exe
+E:\LutzGrub\WPF_Fenster\WPF_Fenster\bin\Debug\WPF_Fenster.pdb
+E:\LutzGrub\WPF_Fenster\WPF_Fenster\obj\Debug\WPF_Fenster.csprojResolveAssemblyReference.cache

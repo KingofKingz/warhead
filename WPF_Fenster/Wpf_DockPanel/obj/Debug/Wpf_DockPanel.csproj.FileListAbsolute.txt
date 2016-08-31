@@ -1,0 +1,17 @@
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\bin\Debug\Wpf_DockPanel.exe.config
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\bin\Debug\Wpf_DockPanel.exe
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\bin\Debug\Wpf_DockPanel.pdb
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\Wpf_DockPanel.csprojResolveAssemblyReference.cache
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\MainWindow.g.cs
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\App.g.cs
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\Wpf_DockPanel_MarkupCompile.cache
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\Wpf_DockPanel_MarkupCompile.lref
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\MainWindow.baml
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\Wpf_DockPanel.g.resources
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\Wpf_DockPanel.Properties.Resources.resources
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\Wpf_DockPanel.csproj.GenerateResource.Cache
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\Wpf_DockPanel.exe
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_DockPanel\obj\Debug\Wpf_DockPanel.pdb
+E:\LutzGrub\WPF_Fenster\Wpf_DockPanel\bin\Debug\Wpf_DockPanel.exe.config
+E:\LutzGrub\WPF_Fenster\Wpf_DockPanel\obj\Debug\Wpf_DockPanel.exe
+E:\LutzGrub\WPF_Fenster\Wpf_DockPanel\obj\Debug\Wpf_DockPanel.pdb

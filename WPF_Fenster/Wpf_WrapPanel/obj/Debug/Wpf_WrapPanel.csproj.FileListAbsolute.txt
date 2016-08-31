@@ -1,0 +1,13 @@
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\bin\Debug\Wpf_WrapPanel.exe.config
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\bin\Debug\Wpf_WrapPanel.exe
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\bin\Debug\Wpf_WrapPanel.pdb
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\obj\Debug\MainWindow.g.cs
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\obj\Debug\App.g.cs
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel_MarkupCompile.cache
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel_MarkupCompile.lref
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\obj\Debug\MainWindow.baml
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.g.resources
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.Properties.Resources.resources
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.csproj.GenerateResource.Cache
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.exe
+c:\users\frank.scholz\documents\visual studio 2015\Projects\WPF_Fenster\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.pdb
